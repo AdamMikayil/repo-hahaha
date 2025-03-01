@@ -1,0 +1,31 @@
+button{
+color: azure;
+border: solid red 5px;
+border-radius: 70%;
+background-color: black;
+}
+input{
+color: azure;
+border: solid red 5px;
+border-radius: 70%;
+background-color: black;
+margin-left: 10px;
+}
+*{
+background-color: black;
+border-radius: 70%;
+border:solid red 3px;
+padding: 40px;
+margin-left: 70px;
+margin-right: 70px;
+}
+label{
+color: azure;
+border: solid red 3px;
+background-color: black;
+border-radius: 70%;
+}
+
+p{
+    color: azure;  
+}
